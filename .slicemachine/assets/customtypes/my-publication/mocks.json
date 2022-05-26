@@ -1,0 +1,21 @@
+{
+  "id": "5480bfa1-dec1-4750-9220-cc9eca19c24a",
+  "uid": "et-vel-ut",
+  "type": "my-publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Cillum eu anim adipisicing nostrud irure. Ipsum magna id ea labore reprehenderit culpa enim fugiat excepteur et voluptate nisi laboris consequat minim. Id laboris amet laboris elit esse incididunt pariatur reprehenderit commodo ut.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sunt proident cillum mollit ipsum aute aliqua pariatur ex fugiat. Laborum fugiat laborum ex exercitation Lorem cillum nisi pariatur velit qui cupidatat esse dolor.",
+        "spans": []
+      }
+    ]
+  }
+}
